@@ -1,1 +1,0 @@
- /Users/yvonne/StudioProjects/course-flutter-animations/example3/.dart_tool/flutter_build/f794ff06606767d6190ad1af24b31fb1/native_assets.yaml: 
