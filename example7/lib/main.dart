@@ -149,7 +149,7 @@ class _HomePageState extends State<HomePage> with TickerProviderStateMixin {
     _rotationAnimation = Tween(begin: 0.0, end: 2 * pi)
         .chain(
           CurveTween(
-            curve: Curves.bounceInOut,
+            curve: Curves.easeInOut,
           ),
         )
         .animate(_rotationController);
